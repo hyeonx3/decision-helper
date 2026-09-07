@@ -1,0 +1,7 @@
+[
+  { "id": "salary", "name": "급여", "weight": 5, "scoreA": 8, "scoreB": 6 },
+  { "id": "growth", "name": "성장 가능성", "weight": 4, "scoreA": 6, "scoreB": 9 },
+  { "id": "worklife", "name": "워라밸", "weight": 4, "scoreA": 7, "scoreB": 5 },
+  { "id": "commute", "name": "통근 거리", "weight": 3, "scoreA": 9, "scoreB": 4 },
+  { "id": "stability", "name": "조직 안정성", "weight": 3, "scoreA": 8, "scoreB": 6 }
+]
